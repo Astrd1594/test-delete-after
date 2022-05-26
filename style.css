@@ -1,0 +1,37 @@
+.roundfont{
+    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Paytone One', sans-serif;
+}
+.section{
+    box-shadow: 5px 5px 12px rgb(181, 181, 181);
+    border-radius: 10px;
+    color: white;
+    padding: 1px;
+    text-align: center !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-direction: column !important;
+}
+#topsection{
+    background-color: rgb(116, 159, 246);
+    width: 20%;
+}
+#statussection{
+    font-weight: lighter;
+    background-color: lightcoral;
+    width: 12%;
+    height: 30px;
+}
+canvas{
+    border-radius: 10px;
+    background-color: rgb(231, 231, 231);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white !important;
+    margin-top: 25px;
+}
+body{
+    background-color: rgb(255, 215, 190);
+}
